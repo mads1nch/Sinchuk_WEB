@@ -1,1 +1,9 @@
-23
+git clone https://github.com/mads1nch/Sinchuk_WEB.git
+git add .
+git commit -m "First"
+git push
+git status
+git add.
+git commit -m "Second"
+type numbPIB.txt
+git push 
